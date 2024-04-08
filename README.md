@@ -9,7 +9,7 @@
 ![4](https://github.com/Makosik/Skateboard-lending/assets/71659410/10778ee6-91c7-4911-9a6b-16b247c3b25d)
 ![5](https://github.com/Makosik/Skateboard-lending/assets/71659410/1917ee7e-8bb1-4cfa-88a6-82d784ac4715)
 
-<h2>For desktop:</h2>
+<h2>For mobile:</h2>
 
 ![1](https://github.com/Makosik/Skateboard-lending/assets/71659410/1c855154-9151-437a-8ebc-53afdfd59671)
 ![2](https://github.com/Makosik/Skateboard-lending/assets/71659410/83368949-2af8-49e6-82b0-e501f30ccb81)
